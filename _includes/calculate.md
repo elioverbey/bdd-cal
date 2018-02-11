@@ -5,3 +5,5 @@
 
 
 It is important to note, that sperm can live for 3-5 days in a woman's body (under right conditions - at least that's what Wikipedia tells me), so this would mean you or your parents likely had sexual intercourse sometime between:
+
+**{{ page.birthday | date: "%s" | minus : 23414400 | date: "%A %B %d, %Y" | uri_encode }}** and **{{ page.birthday | date: "%s" | minus : 22982400 | date: "%A %B %d, %Y" | uri_encode }}**
