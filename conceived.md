@@ -7,11 +7,6 @@ title: When was I conceived?
 
 When were you conceived? Select your birthday below:
 
-<form action="/action_page.php">
-  Birthday:
-  <input type="date" name="bday">
-  <input type="submit" value="Send">
-</form>
 
 ## Or pick your birth year here: 
 

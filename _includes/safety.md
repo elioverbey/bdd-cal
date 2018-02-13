@@ -1,1 +1,1 @@
-This is just a guess. Please read the [disclaimer](/disclaimer)
+This is just a guess. Please read the [disclaimer](/disclaimer/)
