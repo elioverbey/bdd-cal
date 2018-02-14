@@ -5,10 +5,8 @@ title: When was I conceived?
 
 # When was I conceived? 
 
-When were you conceived? Select your birthday below:
 
-
-## Or pick your birth year here: 
+## Pick your birth year here: 
 
 
 - [1900](/conceived/1900/)
